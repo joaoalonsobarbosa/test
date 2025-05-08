@@ -1,0 +1,3 @@
+[submodule "testsamples"]
+	path = testsamples
+	url = https://github.com/joaoalonsobarbosa/testsamples.git
